@@ -1,6 +1,6 @@
 # Название BI
 
-Ура-Аналитикс.pbix
+[Ура-Аналитикс.pbix](https://github.com/UraAnalytics/corehackathon/releases/download/v1/-.pbix)
 
 # Примерный функционал
 
