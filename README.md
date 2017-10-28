@@ -31,7 +31,7 @@
 
 https://app.powerbi.com/view?r=eyJrIjoiM2IxMDVmNDAtNDdhYi00MzBlLTk0MzMtM2U4MzY1NmMwZWUzIiwidCI6IjQ5M2Y1NjIxLTczYmYtNGMwMC1hNzQ2LWMyZmNjMTQxMDcxMiIsImMiOjl9
 
-
+https://app.powerbi.com/view?r=eyJrIjoiYTFkODg2YWEtZTBjNC00ZGQ5LTg2YzktZjA1OGY2MWM1ODBkIiwidCI6IjQ5ODhhYmM0LTJjOWMtNDEwNy1hYjgyLWZkMjBjM2UwZmFhNSIsImMiOjl9
 
 # Файл PBIX для скачивания
 
