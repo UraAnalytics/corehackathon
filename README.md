@@ -10,10 +10,10 @@
 
 # Участники команды
 
-<li> [Сергей Лосев](https://www.facebook.com/LossevSergey)
-<li> [Юрий Батиевский](https://www.facebook.com/batievskiy)
-<li> [Антон Астахов](https://www.facebook.com/astakhoff)
-<li> [Иван Иванов](https://www.facebook.com/ivan.prometriki)
+<li> Сергей Лосев - https://www.facebook.com/LossevSergey
+<li> Юрий Батиевский - https://www.facebook.com/batievskiy
+<li> Антон Астахов - https://www.facebook.com/astakhoff
+<li> Иван Иванов - https://www.facebook.com/ivan.prometriki
 
 # Выявленные проблемы
 
