@@ -30,6 +30,7 @@
 # Пример BI-системы в облаке
 
 https://app.powerbi.com/view?r=eyJrIjoiODVjNTYxMTktYjVhMy00YmYyLWJiN2EtMWVhNTZlMGM1MjE2IiwidCI6IjQ5ODhhYmM0LTJjOWMtNDEwNy1hYjgyLWZkMjBjM2UwZmFhNSIsImMiOjl9
+
 https://app.powerbi.com/view?r=eyJrIjoiYTFkODg2YWEtZTBjNC00ZGQ5LTg2YzktZjA1OGY2MWM1ODBkIiwidCI6IjQ5ODhhYmM0LTJjOWMtNDEwNy1hYjgyLWZkMjBjM2UwZmFhNSIsImMiOjl9
 
 # Файл PBIX для скачивания
