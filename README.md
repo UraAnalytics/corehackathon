@@ -2,6 +2,7 @@
 
 [Ура-Аналитикс.pbix](https://github.com/UraAnalytics/corehackathon/releases/download/v1/-.pbix)
 
+
 # Примерный функционал
 
 Система выполняет формирование данных для расчета нескольких моделей атрибуции: FirstClick, LastClick, FirstAndLastNonDirect, LastNonDirect. Используется распределение ценности по источникам: 0.7 первому источнику, 0.3 последнему. Помимо этого в системе проведен анализ работы Колл-Центра клиента.
@@ -35,4 +36,4 @@ https://app.powerbi.com/view?r=eyJrIjoiYTFkODg2YWEtZTBjNC00ZGQ5LTg2YzktZjA1OGY2M
 
 # Файл PBIX для скачивания
 
-Когда загрузится - появится в этом репозитории.
+[Pbix файл есть в релизах:](https://github.com/UraAnalytics/corehackathon/releases/download/v1/-.pbix)
